@@ -124,12 +124,8 @@ This project was developed as part of a group project.
 
 * Havila Dabburu
 * Sathwika Valluru
-* Maneesha S
+* Maneesha Sabhavath
 * Rishitha Kommukuri
-
----
-
-
 
 ---
 
