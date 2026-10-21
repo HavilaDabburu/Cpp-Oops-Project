@@ -129,12 +129,7 @@ This project was developed as part of a group project.
 
 ---
 
-## My Contribution
 
-* Implemented the file analysis logic
-* Developed the Analysis system for file management
-* Implemented Exception Handling
-* Contributed to modular project design and testing
 
 ---
 
